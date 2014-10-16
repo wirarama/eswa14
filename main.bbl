@@ -1,0 +1,608 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bhuyar%
+\AX{bhuyar  pr
+@Bhuyar, P\BPBI R.}%
+, Gawande%
+\AX{gawande  ad
+@Gawande, A\BPBI D.}%
+\BCBL {}\ \BBA {} Deshmukh%
+\AX{deshmukh  ab
+@Deshmukh, A\BPBI B.}%
+}{%
+Bhuyar%
+\AX{bhuyar  pr
+@Bhuyar, P\BPBI R.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+horizontalfragmentation}
+\APACinsertmetastar {%
+horizontalfragmentation}%
+\begin{APACrefauthors}%
+Bhuyar, P\BPBI R.%
+\AX{bhuyar  pr
+@Bhuyar, P\BPBI R.}%
+, Gawande, A\BPBI D.%
+\AX{gawande  ad
+@Gawande, A\BPBI D.}%
+\BCBL {}\ \BBA {} Deshmukh, A\BPBI B.%
+\AX{deshmukh  ab
+@Deshmukh, A\BPBI B.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Horizontal Fragmentation Technique in Distributed
+  Database} {Horizontal fragmentation technique in distributed
+  database}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Scientific and Research
+  Publications}{2}{5}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guinepain%
+\AX{guinepain  s
+@Guinepain, S.}%
+\ \BBA {} Gruenwald%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+}{%
+Guinepain%
+\AX{guinepain  s
+@Guinepain, S.}%
+\ \BBA {} Gruenwald%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+recordclustering}
+\APACinsertmetastar {%
+recordclustering}%
+\begin{APACrefauthors}%
+Guinepain, S.%
+\AX{guinepain  s
+@Guinepain, S.}%
+\BCBT {}\ \BBA {} Gruenwald, L.%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Automatic database clustering using data mining}
+  {Automatic database clustering using data mining}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 17th International Workshop on Database and
+  Expert Systems Applications ({DEXA}'06)} {Proc. of the 17th international
+  workshop on database and expert systems applications ({DEXA}'06)}\ (\BPGS\
+  124--128).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guinepain%
+\AX{guinepain  s
+@Guinepain, S.}%
+\ \BBA {} Gruenwald%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+}{%
+Guinepain%
+\AX{guinepain  s
+@Guinepain, S.}%
+\ \BBA {} Gruenwald%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+recordclustering1}
+\APACinsertmetastar {%
+recordclustering1}%
+\begin{APACrefauthors}%
+Guinepain, S.%
+\AX{guinepain  s
+@Guinepain, S.}%
+\BCBT {}\ \BBA {} Gruenwald, L.%
+\AX{gruenwald  l
+@Gruenwald, L.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using cluster computing to support automatic and dynamic
+  database clustering} {Using cluster computing to support automatic and
+  dynamic database clustering}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 2008 {IEEE} International Conference on
+  Cluster Computing} {Proc. of the 2008 {IEEE} international conference on
+  cluster computing}\ (\BPGS\ 394--401).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Holland%
+\AX{holland  jh
+@Holland, J\BPBI H.}%
+}{%
+Holland%
+\AX{holland  jh
+@Holland, J\BPBI H.}%
+}{%
+{\protect \APACyear {1975}}%
+}]{%
+holland1975}
+\APACinsertmetastar {%
+holland1975}%
+\begin{APACrefauthors}%
+Holland, J\BPBI H.%
+\AX{holland  jh
+@Holland, J\BPBI H.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1975}.
+\newblock
+\APACrefbtitle {Adaptation in Natural and Artificial Systems} {Adaptation in
+  natural and artificial systems}.
+\newblock
+\APACaddressPublisher{Ann Arbor}{University of Michigan Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Koza%
+\AX{koza  jr
+@Koza, J\BPBI R.}%
+}{%
+Koza%
+\AX{koza  jr
+@Koza, J\BPBI R.}%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+koza1992}
+\APACinsertmetastar {%
+koza1992}%
+\begin{APACrefauthors}%
+Koza, J\BPBI R.%
+\AX{koza  jr
+@Koza, J\BPBI R.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1992}.
+\newblock
+\APACrefbtitle {{Genetic Programming, on the programming of computers by means
+  of natural selection}} {{Genetic Programming, on the programming of computers
+  by means of natural selection}}.
+\newblock
+\APACaddressPublisher{Cambridge, Mass.}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lai%
+\AX{lai  k
+@Lai, K.}%
+}{%
+Lai%
+\AX{lai  k
+@Lai, K.}%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+knapsack3}
+\APACinsertmetastar {%
+knapsack3}%
+\begin{APACrefauthors}%
+Lai, K.%
+\AX{lai  k
+@Lai, K.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The knapsack problem and fully polynomial time
+  approximation schemes ({FPTAS})} {The knapsack problem and fully polynomial
+  time approximation schemes ({FPTAS})}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{18.434: Seminar in Theoretical Computer Science, Prof.
+  M. X. Goemans}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liu%
+\AX{liu  y
+@Liu, Y.}%
+, Li%
+\AX{li  z
+@Li, Z.}%
+, Xiong%
+\AX{xiong  h
+@Xiong, H.}%
+, Gao%
+\AX{gao  x
+@Gao, X.}%
+\BCBL {}\ \BBA {} Wu%
+\AX{wu  j
+@Wu, J.}%
+}{%
+Liu%
+\AX{liu  y
+@Liu, Y.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+silhouette}
+\APACinsertmetastar {%
+silhouette}%
+\begin{APACrefauthors}%
+Liu, Y.%
+\AX{liu  y
+@Liu, Y.}%
+, Li, Z.%
+\AX{li  z
+@Li, Z.}%
+, Xiong, H.%
+\AX{xiong  h
+@Xiong, H.}%
+, Gao, X.%
+\AX{gao  x
+@Gao, X.}%
+\BCBL {}\ \BBA {} Wu, J.%
+\AX{wu  j
+@Wu, J.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding of internal clustering validation
+  measures} {Understanding of internal clustering validation measures}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 2010 {IEEE} 10th International Conference
+  on Data Mining ({ICDM})} {Proc. of the 2010 {IEEE} 10th international
+  conference on data mining ({ICDM})}\ (\BPGS\ 911--916).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lowden%
+\AX{lowden  bg
+@Lowden, B\BPBI G.}%
+\ \BBA {} Kitsopanidis%
+\AX{kitsopanidis  a
+@Kitsopanidis, A.}%
+}{%
+Lowden%
+\AX{lowden  bg
+@Lowden, B\BPBI G.}%
+\ \BBA {} Kitsopanidis%
+\AX{kitsopanidis  a
+@Kitsopanidis, A.}%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+recordclustering2}
+\APACinsertmetastar {%
+recordclustering2}%
+\begin{APACrefauthors}%
+Lowden, B\BPBI G.%
+\AX{lowden  bg
+@Lowden, B\BPBI G.}%
+\BCBT {}\ \BBA {} Kitsopanidis, A.%
+\AX{kitsopanidis  a
+@Kitsopanidis, A.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enhancing Database Retrieval Performance Using Record
+  Clustering} {Enhancing database retrieval performance using record
+  clustering}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Department of Computer Science, The University of
+  Essex}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mabu%
+\AX{mabu  s
+@Mabu, S.}%
+, Chen%
+\AX{chen  c
+@Chen, C.}%
+, Lu%
+\AX{lu  n
+@Lu, N.}%
+, Shimada%
+\AX{shimada  k
+@Shimada, K.}%
+\BCBL {}\ \BBA {} Hirasawa%
+\AX{hirasawa  k
+@Hirasawa, K.}%
+}{%
+Mabu%
+\AX{mabu  s
+@Mabu, S.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+gnp1}
+\APACinsertmetastar {%
+gnp1}%
+\begin{APACrefauthors}%
+Mabu, S.%
+\AX{mabu  s
+@Mabu, S.}%
+, Chen, C.%
+\AX{chen  c
+@Chen, C.}%
+, Lu, N.%
+\AX{lu  n
+@Lu, N.}%
+, Shimada, K.%
+\AX{shimada  k
+@Shimada, K.}%
+\BCBL {}\ \BBA {} Hirasawa, K.%
+\AX{hirasawa  k
+@Hirasawa, K.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An intrusion-detection model based on fuzzy
+  class-association-rule mining using genetic network programming} {An
+  intrusion-detection model based on fuzzy class-association-rule mining using
+  genetic network programming}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{IEEE} Transactions on Systems, Man, and Cybernetics,
+  Part C: Applications and Reviews}{41}{1}{130--139}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rousseeuw%
+\AX{rousseeuw  pj
+@Rousseeuw, P\BPBI J.}%
+}{%
+Rousseeuw%
+\AX{rousseeuw  pj
+@Rousseeuw, P\BPBI J.}%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+silhouette1}
+\APACinsertmetastar {%
+silhouette1}%
+\begin{APACrefauthors}%
+Rousseeuw, P\BPBI J.%
+\AX{rousseeuw  pj
+@Rousseeuw, P\BPBI J.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Silhouettes: a graphical aid to the interpretation and
+  validation of cluster analysis} {Silhouettes: a graphical aid to the
+  interpretation and validation of cluster analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of computational and applied
+  mathematics}{20}{}{53--65}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shimada%
+\AX{shimada  k
+@Shimada, K.}%
+, Hirasawa%
+\AX{hirasawa  k
+@Hirasawa, K.}%
+\BCBL {}\ \BBA {} Hu%
+\AX{hu  j
+@Hu, J.}%
+}{%
+Shimada%
+\AX{shimada  k
+@Shimada, K.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+gnp2}
+\APACinsertmetastar {%
+gnp2}%
+\begin{APACrefauthors}%
+Shimada, K.%
+\AX{shimada  k
+@Shimada, K.}%
+, Hirasawa, K.%
+\AX{hirasawa  k
+@Hirasawa, K.}%
+\BCBL {}\ \BBA {} Hu, J.%
+\AX{hu  j
+@Hu, J.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Genetic Network Programming with Acquisition Mechanisms
+  of Association Rules.} {Genetic network programming with acquisition
+  mechanisms of association rules.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Advanced Computational Intelligence and
+  Intelligent Informatics}{10}{1}{102--111}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singh%
+\AX{singh  rp
+@Singh, R\BPBI P.}%
+}{%
+Singh%
+\AX{singh  rp
+@Singh, R\BPBI P.}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+knapsack2}
+\APACinsertmetastar {%
+knapsack2}%
+\begin{APACrefauthors}%
+Singh, R\BPBI P.%
+\AX{singh  rp
+@Singh, R\BPBI P.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Solving 0--1 knapsack problem using genetic algorithms}
+  {Solving 0--1 knapsack problem using genetic algorithms}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 2011 {IEEE} 3rd International Conference on
+  Communication Software and Networks ({ICCSN})} {Proc. of the 2011 {IEEE} 3rd
+  international conference on communication software and networks ({ICCSN})}\
+  (\BPGS\ 591--595).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Toth%
+\AX{toth  p
+@Toth, P.}%
+}{%
+Toth%
+\AX{toth  p
+@Toth, P.}%
+}{%
+{\protect \APACyear {1980}}%
+}]{%
+knapsack_DP}
+\APACinsertmetastar {%
+knapsack_DP}%
+\begin{APACrefauthors}%
+Toth, P.%
+\AX{toth  p
+@Toth, P.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1980}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dynamic programming algorithms for the zero-one knapsack
+  problem} {Dynamic programming algorithms for the zero-one knapsack
+  problem}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computing}{25}{1}{29--45}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhao%
+\AX{zhao  j
+@Zhao, J.}%
+, Huang%
+\AX{huang  t
+@Huang, T.}%
+, Pang%
+\AX{pang  f
+@Pang, F.}%
+\BCBL {}\ \BBA {} Liu%
+\AX{liu  y
+@Liu, Y.}%
+}{%
+Zhao%
+\AX{zhao  j
+@Zhao, J.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+knapsack}
+\APACinsertmetastar {%
+knapsack}%
+\begin{APACrefauthors}%
+Zhao, J.%
+\AX{zhao  j
+@Zhao, J.}%
+, Huang, T.%
+\AX{huang  t
+@Huang, T.}%
+, Pang, F.%
+\AX{pang  f
+@Pang, F.}%
+\BCBL {}\ \BBA {} Liu, Y.%
+\AX{liu  y
+@Liu, Y.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Genetic algorithm based on greedy strategy in the 0-1
+  knapsack problem} {Genetic algorithm based on greedy strategy in the 0-1
+  knapsack problem}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 3rd International Conference on Genetic and
+  Evolutionary Computing ({WGEC}'09)} {Proc. of the 3rd international
+  conference on genetic and evolutionary computing ({WGEC}'09)}\ (\BPGS\
+  105--107).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zilio%
+\AX{zilio  dc
+@Zilio, D\BPBI C.}%
+\ \protect \BOthers {.}}{%
+Zilio%
+\AX{zilio  dc
+@Zilio, D\BPBI C.}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+horizontalfragmentation1}
+\APACinsertmetastar {%
+horizontalfragmentation1}%
+\begin{APACrefauthors}%
+Zilio, D\BPBI C.%
+\AX{zilio  dc
+@Zilio, D\BPBI C.}%
+, Rao, J.%
+\AX{rao  j
+@Rao, J.}%
+, Lightstone, S.%
+\AX{lightstone  s
+@Lightstone, S.}%
+, Lohman, G.%
+\AX{lohman  g
+@Lohman, G.}%
+, Storm, A.%
+\AX{storm  a
+@Storm, A.}%
+, Garcia-Arellano, C.%
+\AX{garciaarellano  c
+@Garcia-Arellano, C.}%
+\BCBL {}\ \BBA {} Fadden, S.%
+\AX{fadden  s
+@Fadden, S.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{DB2} Design Advisor: Integrated Automatic Physical
+  Database Design} {{DB2} design advisor: Integrated automatic physical
+  database design}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proc. of the 30th International Conference on Very Large
+  Data Bases - Volume 30} {Proc. of the 30th international conference on very
+  large data bases - volume 30}\ (\BPGS\ 1087--1097).
+\newblock
+\APACaddressPublisher{}{{VLDB} Endowment}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
